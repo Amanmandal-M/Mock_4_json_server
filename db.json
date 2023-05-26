@@ -36,18 +36,7 @@
     },
     {
       "id": 2,
-      "name": "Mark Johnson",
-      "image": "https://example.com/doctor-image.jpg",
-      "specialization": "Pediatrician",
-      "experience": 5,
-      "location": "Chicago",
-      "date": "2023-04-06T09:30:00.000Z",
-      "slots": 1,
-      "fee": 100
-    },
-    {
-      "id": 5,
-      "name": "Mark Johnson",
+      "name": "Mark Johnsons",
       "image": "https://example.com/doctor-image.jpg",
       "specialization": "Pediatrician",
       "experience": 5,
